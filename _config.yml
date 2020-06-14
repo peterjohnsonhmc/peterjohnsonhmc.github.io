@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: Peter Johnson
+title: Poopy Butt
 
 # Short description of your site
 description: Aloha Robotics
@@ -12,15 +12,15 @@ author: Peter Johnson
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Projects:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
   About Me: "aboutme"
   Resume:
     - Robotics and Controls: "/assets/img/Peter_Resume_Robotics_and_Control.pdf"
     - Embedded and Digital: "/assets/img/Peter_Resume__Embedded_Control.pdf"
-
-  Blog: "https://peterjohnsonhmc.github.io"
+  Projects:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  For Fun: 
+    - Aloha Shirts: "https://www.smithsonianmag.com/innovation/history-hawaiian-shirt-180974598/"
 
 # --- Logo --- #
 
