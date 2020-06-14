@@ -1,12 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Robots!
+subtitle: Newly Graduated Electrical Engineer
 ---
 
-Hi there, I'm Peter. I just graduated from Harvey Mudd College with a Bachelor's of Science with Distinction
-in Engineering. My focus is in robotics, controls, and embedded systems. 
+Hi there, I'm Peter. I just graduated from Harvey Mudd College, receiving my Bachelor's of Science with Distinction
+in Engineering. My focus is in robotics, controls, and embedded systems. I am particularly interested in state estimation and control for autonomous navigation. I am currently looking for a full time position or an internship. I plan on pursuing a masters degree in the area of robotics, but would like to get some industry experience first. Click through my blog to see some of my favorite projects. 
 
-### my history
+I grew up participating in Boy Scouts and enjoy backpacking. I have also developed an interest in historical gardens from I class I took at Scripps College. Growing up in Hawaii has given me an appreciation for Aloha shirts which I collect by thrifting. I'll also try to post about these as well.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
