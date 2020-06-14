@@ -16,7 +16,9 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   About Me: "aboutme"
-  Resume: "/assets/img/PJ_Headshot_Huntington.jpg"
+  Resume:
+    - Robotics and Controls: "/assets/img/Peter_Resume_Robotics_and_Control.pdf"
+    - Embedded and Digital: "/assets/img/Peter_Resume__Embedded_Control.pdf"
 
   Blog: "https://peterjohnsonhmc.github.io"
 
