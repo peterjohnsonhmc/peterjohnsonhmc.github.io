@@ -14,11 +14,11 @@ author: Peter Johnson
 navbar-links:
   About Me: "aboutme"
   Resume:
-    - Robotics and Controls: "/assets/img/Peter_Resume_Robotics_and_Control.pdf"
+    - Robotics and Control: "/assets/img/Peter_Resume_Robotics_and_Control.pdf"
     - Embedded and Digital: "/assets/img/Peter_Resume__Embedded_Control.pdf"
   Projects:
-    - Localization in a Mine: "https://beautifuljekyll.com"
-    - MPC Path Tracking: "_posts/2019-12-01-mpc-path-tracking/"
+    - Localization in a Mine: "https://peterjohnsonhmc.github.io/2020-05-01-localize-in-a-mine/"
+    - MPC Path Tracking: "https://peterjohnsonhmc.github.io/2019-12-01-mpc-path-tracking/"
   For Fun: 
     #- Aloha Shirts: "https://www.smithsonianmag.com/innovation/history-hawaiian-shirt-180974598/"
     #- Gardens: "http://www.scrippscollege.edu/academics/faculty/profile/bruce-coats"
