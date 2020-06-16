@@ -17,8 +17,10 @@ navbar-links:
     - Robotics and Control: "/assets/img/Peter_Resume_Robotics_and_Control.pdf"
     - Embedded and Digital: "/assets/img/Peter_Resume__Embedded_Control.pdf"
   Projects:
-    - Localization in a Mine: "https://peterjohnsonhmc.github.io/2020-05-01-localize-in-a-mine/"
+    - Localize in a Mine: "https://peterjohnsonhmc.github.io/2020-05-01-localize-in-a-mine/"
+    - EKF vs Particle Filter: "https://peterjohnsonhmc.github.io/2019-12-01-mpc-path-tracking/"
     - MPC Path Tracking: "https://peterjohnsonhmc.github.io/2019-12-01-mpc-path-tracking/"
+    - VGA Driver: "https://peterjohnsonhmc.github.io/2018-12-13-vga-driver/"
   For Fun: 
     #- Aloha Shirts: "https://www.smithsonianmag.com/innovation/history-hawaiian-shirt-180974598/"
     #- Gardens: "http://www.scrippscollege.edu/academics/faculty/profile/bruce-coats"
