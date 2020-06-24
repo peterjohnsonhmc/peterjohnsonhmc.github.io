@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Newly Graduated Electrical Engineer
+cover-img: /assets/img/alohapattern.jpeg
 ---
 
 Hi there, I'm Peter. I just graduated from Harvey Mudd College, receiving my Bachelor's of Science with Distinction
