@@ -10,6 +10,6 @@ For the final project in our State Estimation class, my partner and I built an U
 
 The public Chilean Mine [dataset](http://dataset.amtc.cl/) that we used included LiDAR and encoder data. Integrating the wheel encoder data provided a good prediction step for our UKF and the LiDAR measurements could be compared to an occupancy grid map for the corection step of the filter. The LiDAR was an older model which scanned a full 3-D rotation once every 6 seconds. Based on the speed of the robot, we determined that we could not assume a full scan occured at a single time step. This meant that we would be unable to do complete scan matching. We played around with the fractions of a scan and found that 1/3 of a scan produced the best results.  
 
-We succesffully implemented and tuned the UKF as well as a particle filter in the same style as the previous one. You can checkout an overview of the project and our results in this [video].(https://drive.google.com/file/d/1k3QqLXrcS_RzYz-ZXLEUlcOT1XIYHmOQ/view?ts=5ee7edce)
+We succesffully implemented and tuned the UKF as well as a particle filter in the same style as the previous one. You can checkout an overview of the project and our results in this [video](https://drive.google.com/file/d/1k3QqLXrcS_RzYz-ZXLEUlcOT1XIYHmOQ/view?ts=5ee7edce).
 
 You can checkout the github repository [here](https://github.com/peterjohnsonhmc/E205/tree/master/Final%20Project).
