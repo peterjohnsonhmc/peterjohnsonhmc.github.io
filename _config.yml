@@ -15,7 +15,7 @@ navbar-links:
   About Me: "aboutme"
   Resume:
     - Robotics and Control: "/assets/img/Peter_Resume_Robotics_and_Control.pdf"
-    - Embedded and Digital: "/assets/img/Peter_Resume__Embedded_Control.pdf"
+    - Embedded and Digital: "/assets/img/Peter_Resume_Embedded_Control.pdf"
   Projects:
     - Localize in a Mine: "https://peterjohnsonhmc.github.io/2020-05-01-Localize-In-A-Mine/"
     - EKF vs Particle Filter: "https://peterjohnsonhmc.github.io/2020-03-01-ekf-vs-pf/"
