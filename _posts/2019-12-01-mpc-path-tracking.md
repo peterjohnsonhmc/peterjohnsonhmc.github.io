@@ -6,7 +6,7 @@ cover-img: /assets/img/path.jpg
 tags: [mpc, robotics, matlab, optimization, control, planning, self-driving]
 ---
 
-Fall Semester of my senior year I took a nonlinear controls and optimization course. Topics included nonlinear systems, dynamics, stability and optimization with applications to control systems. For our final project, my partner and I decided to implement Model Predictive Control (MPC) for a vehicle following a path. We based our vehicle on the popular bicycle model of a car. We developed the system kinematics, cost function, constraints and integrated them using MATLAB's nonlinear MPC Toolbox. We also built a simple simulator to visualize the results.
+Fall Semester of my senior year I took a nonlinear controls and optimization course. Topics included nonlinear systems, dynamics, stability and optimization with applications to control systems. For our final project, my partner and I decided to implement Model Predictive Control (MPC) for a vehicle following a path. We based our vehicle on the popular bicycle model of a car. We developed the system kinematics, cost function, constraints and integrated them using MATLAB's nonlinear MPC Toolbox. We also built a simple simulator to visualize the results. 
 
 To formulate the path following problem as an optimization problem, we created a cost function that would minimize the bicycle's deviation from the path (the cross track error.) We also included costs for not moving at the desired speed and having an error in the heading. We also included terms to minimize the amount of control actions such as accelerating or steering and minimized the rate of change in these control actions. These costs are for efficiency and rider comfort.
 
