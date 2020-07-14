@@ -14,6 +14,6 @@ The public Chilean Mine [dataset](http://dataset.amtc.cl/) that we used included
 
 ![blockdiagram](/assets/img/blockdiagram_ukf.png){: .center-block :}
 
-We succesffully implemented and tuned the UKF as well as a particle filter in the same style as the previous one. You can checkout an overview of the project and our results in this [video](https://drive.google.com/file/d/1k3QqLXrcS_RzYz-ZXLEUlcOT1XIYHmOQ/view?fbclid=IwAR2GqxEaEmigm7xULgZvthxWwtrAehlxthN2FICuxIqEvpZ1Yj654uIkc70).
+We succesffully implemented and tuned the UKF as well as a particle filter in the same style as the previous one. You can checkout an overview of the project and our results in this [video](https://www.youtube.com/watch?v=a3Ev7ZiCtLc&feature=youtu.be).
 
 You can checkout the github repository [here](https://github.com/peterjohnsonhmc/E205/tree/master/Final%20Project).

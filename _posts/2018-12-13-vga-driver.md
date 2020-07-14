@@ -16,8 +16,6 @@ Below is a detailed block diagram of the VGA driver I implemented on an FPGA wit
 
 ![block_fpga](/assets/img/blockdiagram_fpga.jpg){: .center-block :}
 
-If you want to hear the details, you can read our final report and atached code [here](https://github.com/peterjohnsonhmc/E155/blob/master/E155Final_PJTD/Final%20Project%20Report.pdf).
-
+If you want to hear the details, you can read our final report and attached code [here](https://github.com/peterjohnsonhmc/E155/blob/master/E155Final_PJTD/Final%20Project%20Report.pdf).
 You can look at the code as well as my other labs for the class (which are also very cool) [here](https://github.com/peterjohnsonhmc/E155).
-
 One of the highlights is an [IoT light sensor](https://github.com/peterjohnsonhmc/E155/tree/master/lab6_PJ). 
