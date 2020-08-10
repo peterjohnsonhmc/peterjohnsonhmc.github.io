@@ -17,6 +17,7 @@ navbar-links:
     - Robotics and Control: "/assets/img/Peter_Resume_Robotics_and_Control.pdf"
     - Embedded and Digital: "/assets/img/Peter_Resume_Embedded_Control.pdf"
   Projects:
+    - FastSLAM: "https://peterjohnsonhmc.github.io/2020-08-10-FastSLAM/"
     - Localize in a Mine: "https://peterjohnsonhmc.github.io/2020-05-01-Localize-In-A-Mine/"
     - EKF vs Particle Filter: "https://peterjohnsonhmc.github.io/2020-03-01-ekf-vs-pf/"
     - MPC Path Tracking: "https://peterjohnsonhmc.github.io/2019-12-01-mpc-path-tracking/"
