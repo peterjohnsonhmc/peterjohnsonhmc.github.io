@@ -2,7 +2,7 @@
 layout: post
 title: FastSLAM
 subtitle: Solving the Online SLAM Problem
-cover-img: /assets/img/lidar_data.jpg
+cover-img: /assets/img/DELIGHT_point_cloud2.PNG
 tags: [SLAM, FastSLAM, EKF, Kalman, Particle, Python, LiDAR, IMU, Fusion]
 ---
 
