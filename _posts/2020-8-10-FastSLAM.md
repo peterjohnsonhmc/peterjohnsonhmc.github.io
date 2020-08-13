@@ -6,7 +6,7 @@ cover-img: /assets/img/Dibotics-3D-SLAM-696x365.jpg
 tags: [SLAM, FastSLAM, EKF, Kalman, Particle, Python, LiDAR, IMU, Fusion]
 ---
 
-I am curently working on a FastSLAM implementation based on the algorithm presented in Probabalistic Robotics by Sebastian Thrun et al. The Dataset is from the E205 State Estimation Course that I took in college. There is a single landmark, a post in an open field. The state to be estimated is the robot pose (x, y, theta). The measurment is landmark range in x-y coordinates. 
+I am curently working on a FastSLAM implementation based on the algorithm presented in Probabilistic Robotics by Sebastian Thrun et al. The Dataset is from the E205 State Estimation Course that I took in college. There is a single landmark, a post in an open field. The state to be estimated is the robot pose (x, y, theta). The measurment is landmark range in x-y coordinates. 
 
 The SLAM probem can be factored into estimating the path, and based on the path, estimating the map. In this algorithm, a Rao-Blackwellized Particle filter is used to do this. The particles are used for estimating the pose and each particle has a low dimensional EKF for estimating the landmark location. The first implementation I did uses known landmark correspondence for simplicity. 
 
@@ -22,6 +22,6 @@ Figure (a) depicts the particles after sampling from the motion model (the propo
 
 ![10particles_path](/assets/img/FastSLAM_known_10particles.png){: .center-block :}
 
-My next iteration which is currently underway will use maximum likelihood data association to solve the landmark correspondence problem.
+The next iteration uses Maximum Likelihood data association. I have written all of the code for this, but I am still debugging its functionality. I am trying to tune the threshold for what the Likelhood of a new landmark would be. Currently, lots of the likelihoods of matching an observed landmark are low, so that is something else I need to work on. As a general improvement, I plan on replacing naive resamping with low variance resampling.
 
 You can checkout the github repository [here](https://github.com/peterjohnsonhmc/SLAM).
